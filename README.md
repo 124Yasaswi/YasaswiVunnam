@@ -7,13 +7,13 @@ Instructions to Run the Programs
 
 Each problem is written in Python and saved in a separate file.
 
-Problem-1.py → Simple Calculator (Add, Subtract, Multiply, Divide)
+Problem-1.py  Simple Calculator (Add, Subtract, Multiply, Divide)
 
-Problem-2.py → Prints first a odd numbers
+Problem-2.py  Prints first a odd numbers
 
-Problem-3.py → Prints modified odd series (differs for even/odd input)
+Problem-3.py  Prints modified odd series (differs for even/odd input)
 
-Problem-4.py → Counts multiples of numbers [1–9] in a given list
+Problem-4.py  Counts multiples of numbers [1–9] in a given list
 
 Install Python (if not installed).
 
